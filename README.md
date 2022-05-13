@@ -24,4 +24,4 @@ The only exception to this is within the [Pull Request](.github/pull_request_tem
 
 ## Thank you
 
-Inspiration to start this repo was because of a collaboration with [jeffhacks](https://github.com/jeffhacks) for [smbscan](https://github.com/jeffhacks/smbscan/) Documentation. Thank you for all the great ideas!
+Inspiration to start this repo was because of a collaboration with [jeffhacks](https://github.com/jeffhacks) for [SMBScan](https://github.com/jeffhacks/smbscan/) Documentation. ✨ Thank you for all the great ideas! ✨ 
