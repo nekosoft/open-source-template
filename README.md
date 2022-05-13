@@ -4,7 +4,10 @@ This project was initially created to explore all of the features and files that
 
 This template is useful for me - and if you think it's useful for you, you're free to use and modify it for your own project. :)
 
+## Contents
+### .github Directory
 
-# Thank you
+
+## Thank you
 
 - jeffhacks / smbscan
