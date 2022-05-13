@@ -23,7 +23,7 @@ The only exception to this is within the [Pull Request](.github/pull_request_tem
 
 This is what contributors will see when they open a Pull Request:
 
-![Image of Pull Request Template in use](/docs/images/pr_template.png "Pull Request Template in use")
+![Image of Pull Request Template in use](/docs/images/pr_template.png?raw=True "Pull Request Template in use")
 
 
 ## Thank you
