@@ -15,8 +15,10 @@ Thank you for taking the time and interest to contribute!
 - [Code Styling and Best Practices](#code-styling-and-best-practices)
   - [Git Commit Messages](#git-commit-messages)
   - [Code Conventions](#code-conventions)
-- [Testing]
-- [Versioning]
+- [Testing](#testing)
+- [Versioning](#versioning)
+- [Resources](#resources)
+
 
 
 ## Getting Started
@@ -44,10 +46,12 @@ A good place to start is heading to the Issues page and looking for Issues label
 - Create a branch for focused development of a specific issue
 - Submit a pull request using the pull request template
 
-## Development Environment
 
+## Development Environment
+Suggest development environment (such as virtual environments, Docker...) and links to first-time set up.
 <!-- Are there pre-requisites to setting up the environment? Do you suggest a virtual environment? Link to docs if you assume this might be a first-time set up for people -->
 ## Code Styling and Best Practices
+
 
 <!-- - this may include suggested styleguides for a particular language and formatting you specify, how to name things like functions and Classes, how to import packages, quirks of the language... whatever you might recommend depending on the language and environment -->
 ### Git Commit Messages
