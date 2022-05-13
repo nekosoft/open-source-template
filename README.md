@@ -21,6 +21,10 @@ The only exception to this is within the [Pull Request](.github/pull_request_tem
 - Add your own template for Pull Requests
 - Re-use and modify this one
 
+This is what contributors will see when they open a Pull Request:
+
+![Image of Pull Request Template in use](/docs/images/pr_template.png "Pull Request Template in use")
+
 
 ## Thank you
 
